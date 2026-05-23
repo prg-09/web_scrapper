@@ -64,9 +64,7 @@ The program will:
 
 Add your saved graph image here later.
 
-```md
 ![Book Price Graph](graph.png)
-```
 
 ---
 
