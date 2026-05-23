@@ -54,7 +54,7 @@ def plot_graph():
             titles.append(title)
             prices.append(price)
             plt.barh(titles, prices)
-
+        plt.savefig('graph.png')
         plt.show()
 
 
