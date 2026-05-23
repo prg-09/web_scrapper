@@ -62,8 +62,6 @@ The program will:
 
 ## Graph Output
 
-Add your saved graph image here later.
-
 ![Book Price Graph](graph.png)
 
 ---
